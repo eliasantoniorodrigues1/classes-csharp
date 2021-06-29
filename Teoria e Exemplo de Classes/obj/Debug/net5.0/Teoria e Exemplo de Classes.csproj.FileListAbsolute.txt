@@ -1,0 +1,16 @@
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\bin\Debug\net5.0\Teoria e Exemplo de Classes.exe
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\bin\Debug\net5.0\Teoria e Exemplo de Classes.deps.json
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\bin\Debug\net5.0\Teoria e Exemplo de Classes.runtimeconfig.json
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\bin\Debug\net5.0\Teoria e Exemplo de Classes.runtimeconfig.dev.json
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\bin\Debug\net5.0\Teoria e Exemplo de Classes.dll
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\bin\Debug\net5.0\ref\Teoria e Exemplo de Classes.dll
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\bin\Debug\net5.0\Teoria e Exemplo de Classes.pdb
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\obj\Debug\net5.0\Teoria e Exemplo de Classes.csproj.AssemblyReference.cache
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\obj\Debug\net5.0\Teoria e Exemplo de Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\obj\Debug\net5.0\Teoria e Exemplo de Classes.AssemblyInfoInputs.cache
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\obj\Debug\net5.0\Teoria e Exemplo de Classes.AssemblyInfo.cs
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\obj\Debug\net5.0\Teoria e Exemplo de Classes.csproj.CoreCompileInputs.cache
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\obj\Debug\net5.0\Teoria e Exemplo de Classes.dll
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\obj\Debug\net5.0\ref\Teoria e Exemplo de Classes.dll
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\obj\Debug\net5.0\Teoria e Exemplo de Classes.pdb
+D:\Cursos\Graduação PUC Minas - ADS\Altoritmo e Abstração de Dados\Classes\Teoria e Exemplo de Classes\obj\Debug\net5.0\Teoria e Exemplo de Classes.genruntimeconfig.cache
